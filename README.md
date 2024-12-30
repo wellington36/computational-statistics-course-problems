@@ -1,4 +1,4 @@
-# Problems from Computational Statistics (0/0 | 100%)
+# Computational Statistics Problems (0/0 | 100%)
 
 Repository of questions and solutions related to Computational Statistics, a PhD-level course as EMAp (in Portuguese).
 
