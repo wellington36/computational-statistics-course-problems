@@ -8,7 +8,7 @@ References:
 - [CB] Robert, C. P., Casella, G. (2004). Monte Carlo Statistical Methods. John Wiley & Sons, Ltd.
 
 ## Lists of other courses and from the textbook (10/21 48%)
-Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) 
+Problems | [HW 1](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) | [HW 2](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) 
 ----|----|----
 #1  | ✅ | ❌ 
 #2  | ✅ | ❌ 
