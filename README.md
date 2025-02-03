@@ -21,3 +21,5 @@ Problems | [HW 1](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exerci
 #9  | ✅ | ❌ 
 #10 | ✅ | ❌ 
 #11 | -  | ❌ 
+
+## Exercises from the textbook (0/0 0%)
