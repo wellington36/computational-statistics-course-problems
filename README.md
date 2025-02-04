@@ -7,7 +7,7 @@ References:
 - [LG] Gamerman, D., & Lopes, H. F. (2006). Markov chain Monte Carlo: stochastic simulation for Bayesian inference. Chapman and Hall/CRC.
 - [CB] Robert, C. P., Casella, G. (2004). Monte Carlo Statistical Methods. John Wiley & Sons, Ltd.
 
-## Lists of other courses and from the textbook (20/31 65%)
+## Lists of other courses (20/31 65%)
 Problems | [HW 1](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) | [HW 2](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) | [HW 3](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet2.pdf)
 ----|----|----|----
 #1  | ✅ | ✅ | ❌ 
