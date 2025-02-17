@@ -1,6 +1,6 @@
 # Computational Statistics Problems (47/72 | 65%)
 
-Repository of questions and solutions related to Computational Statistics, a PhD-level course as EMAp (in Portuguese).
+Repository of questions and solutions related to a Computational Statistics course (in Portuguese).
 
 References:
 
