@@ -1,4 +1,4 @@
-# Computational Statistics Problems (55/72 | 76%)
+# Computational Statistics Problems (56/72 | 78%)
 
 Repository of questions and solutions related to a Computational Statistics course (in Portuguese).
 
@@ -7,12 +7,12 @@ References:
 - [LG] Gamerman, D., & Lopes, H. F. (2006). Markov chain Monte Carlo: stochastic simulation for Bayesian inference. Chapman and Hall/CRC.
 - [CB] Robert, C. P., Casella, G. (2004). Monte Carlo Statistical Methods. John Wiley & Sons, Ltd.
 
-## Lists of other courses (55/72 76%)
+## Lists of other courses (56/72 78%)
 Problems | [HW 1](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) | [HW 2](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet1.pdf) | [HW 3](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet2.pdf) | [HW 4](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet2.pdf) | [HW 5](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet3.pdf) | [HW 6](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet3.pdf) | [HW 7](https://www.stats.ox.ac.uk/~rebeschi/teaching/AdvSim/18/exercises/sheet4.pdf) | [HW 8](https://github.com/wellington36/computational-statistics-course-problems/tree/main/HW/HW%208)
 ----|----|----|----|----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ 
 #2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ 
-#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ 
+#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ 
 #4  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ 
 #5  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ 
 #6  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ 
